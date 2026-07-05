@@ -3,7 +3,7 @@ export const personalInfo = {
   shortName: 'Tushar Patil',
   title: 'Software Developer',
   tagline: 'AI & Web Technologies Enthusiast',
-  email: 'tusharpatil.dev@gmail.com',
+  email: 'patiltu25@gmail.com',
   phone: '+91 98765 43210',
   location: 'Ratnagiri, Maharashtra, India',
   linkedin: 'https://www.linkedin.com/in/tushar-patil-427328412/',
